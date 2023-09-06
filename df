@@ -1,0 +1,23 @@
+[33mcommit 38aafb1d8b4041706fdd14a2a19179398a8e218f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gmc <gillcarbonell@gmail.com>
+Date:   Sun Sep 3 23:49:02 2023 +0800
+
+    api routes: setup sample api route
+
+[33mcommit 0c1657cd4f3881e1dde4213e5d1d4618d82f7c1e[m
+Author: gmc <gillcarbonell@gmail.com>
+Date:   Sun Sep 3 01:01:34 2023 +0800
+
+    next: dynamic routing
+
+[33mcommit 8d9311e7b5fd70eaa8c544a98878b0381ff25202[m
+Author: gmc <gillcarbonell@gmail.com>
+Date:   Thu Aug 31 23:13:28 2023 +0800
+
+    layout: setup layout, profile image
+
+[33mcommit 4d821ac18d6bd89cd76e1197c64b1060b8942104[m
+Author: gmc <gillcarbonell@gmail.com>
+Date:   Fri Aug 25 23:30:22 2023 +0800
+
+    Initial commit from Create Next App
